@@ -1,0 +1,12 @@
+{
+  "commentStyle": {
+    ".js": { "start": "//", "end": "" },
+    ".ts": { "start": "//", "end": "" },
+    ".py": { "start": "#", "end": "" },
+    ".go": { "start": "//", "end": "" },
+    ".java": { "start": "//", "end": "" },
+    ".css": { "type": "block", "start": "/*", "line": " *", "end": " */" },
+    ".xml": {"start": "<#--", "end": "-->"}
+  },
+  "extensions": [".js", ".ts", ".py", ".go", ".java", ".css"]
+}
