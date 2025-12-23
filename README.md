@@ -10,6 +10,7 @@ Es una herramienta que automatiza la inserción y actualización de encabezados 
 ## Requisitos
 - Node.js v18 o superior
 - Git
+- Un proyecto inicializado con un package.json (Si no tienes uno, ejecuta `npm init -y`)
 
 ## Instalación
 
